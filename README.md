@@ -30,7 +30,7 @@
 
 
 ### Contact with me
-[![](https://img.shields.io/badge/Telegram-12100E?style=for-the-badge&logo=telegram&logoColor=white)](https://medium.com/@gachon0316)
+[![](https://img.shields.io/badge/Telegram-12100E?style=for-the-badge&logo=telegram&logoColor=white)](https://@gachon0316/@gachon0316)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhriddin-mahmudov-19a3151a6/)
 [![](https://img.shields.io/badge/Gmail-1ED760?style=for-the-badge&logo=gmail&logoColor=white)](https://open.gachon031698@gmail.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4)
 
