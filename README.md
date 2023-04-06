@@ -3,6 +3,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
 ### Languages and tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
