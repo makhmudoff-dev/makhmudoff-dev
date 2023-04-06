@@ -5,11 +5,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff-dev&layout=compact&theme=dark"/>
 
-
-
-<img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/>
-
-
 ### Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
