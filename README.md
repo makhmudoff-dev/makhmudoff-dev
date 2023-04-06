@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff"/>
 
 ### Languages and tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
