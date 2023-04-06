@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true&theme=dark"/>
 
-[![makhmudoff-dev's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff-dev&hide=html,scss,stylus,blade,reactjs%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/makhmudoff-dev)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff-dev&layout=compact"/>
 
 
 
