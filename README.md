@@ -4,7 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff"/>
-### Total contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 
 ### Languages and tools
