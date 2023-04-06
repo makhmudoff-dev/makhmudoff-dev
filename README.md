@@ -29,5 +29,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
 
-
+### Contact with me
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@makhmudoff)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhriddin-mahmudov-19a3151a6/)
+[![](https://img.shields.io/badge/Gmail-1ED760?style=for-the-badge&logo=gmail&logoColor=white)](https://open.gmail.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4)
 
