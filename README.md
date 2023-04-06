@@ -14,7 +14,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/spyder_logo/spyder_logo-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
 
 
