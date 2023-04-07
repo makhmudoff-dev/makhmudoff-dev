@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makhmudoff-dev&layout=compact&theme=dark"/>
 
 ### Total contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=makhmudoff-dev&theme=dark"/>
 
 
 ### Languages and tools
