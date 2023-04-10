@@ -1,5 +1,7 @@
 ### Hi. I am Mukhriddin 👋
-#### I am front end web developer. 
+#### I am front end web developer. <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true&theme=dark"/>
 
