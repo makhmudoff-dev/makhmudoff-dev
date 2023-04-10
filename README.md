@@ -1,5 +1,5 @@
 ### Hi. I am Mukhriddin 👋
-##### I am front end web developer. 
+#### I am front end web developer. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=makhmudoff&show_icons=true&theme=dark"/>
 
